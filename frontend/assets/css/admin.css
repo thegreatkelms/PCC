@@ -1,0 +1,39 @@
+body {  
+   padding: 0;
+   margin: 0;
+}
+p {
+    padding: 10px;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 100vw;
+}
+
+#navigation {
+    float: left;
+    height: 40px;
+    width: 100vw;
+    background: #FFCC33;
+}
+
+#content {
+    float: left;
+    background: #FFFFFF;
+    width: 850px;
+}
+
+#leftcolumn {
+    background: #33CCFF;
+    width: 230px;
+    float: left;
+}
+
+#footer {
+    height: 40px;
+    width: 100vw;
+    background: #33FF66;
+    clear: both;
+}
+
